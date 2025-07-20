@@ -10,7 +10,7 @@
 </p>
 
 ---
-https://github.com/MohammadMahdiGazmeh/mohammadmahdigazmeh/blob/main/7997552.jpg?raw=true
+https://github.com/MohammadMahdiGazmeh/mohammadmahdigazmeh/raw/main/7997552.jpg?raw=true
 ---
 
 ### 🧑‍💻 About Me
