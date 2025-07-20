@@ -11,14 +11,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/MohammadMahdiGazmeh/form-builder">
-    <img src="https://github.com/MohammadMahdiGazmeh/mohammadmahdigazmeh/raw/main/7997552.jpg" alt="Thumbnail" width="100%" />
-  </a>
-</p>
-
----
-
 ### 🧑‍💻 About Me
 
 - 🌱 I’m currently focusing on improving my **frontend development** skills.
