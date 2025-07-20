@@ -40,8 +40,6 @@
 </p>
 
 ---
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=your-username&theme=react-dark)
-
 
 ### 🔥 My Activity Graph
 
