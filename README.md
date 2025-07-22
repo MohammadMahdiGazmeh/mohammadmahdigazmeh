@@ -47,8 +47,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadmahdigazmeh&theme=tokyo-night" alt="activity graph" />
 </p>
 
----
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mohammadmahdigazmeh/mohammadmahdigazmeh/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
 
 ### 📫 Contact Me
 
