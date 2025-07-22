@@ -2,6 +2,7 @@
   <img src="https://github.com/mohammadmahdigazmeh/mohammadmahdigazmeh/blob/main/name.svg" alt="Hi, I'm MohammadMahdi Gazmeh" />
 </h1>
 
+
 <h3 align="center">A passionate Front-End Web Developer from Iran 🇮🇷</h3>
 
 <p align="center">
@@ -13,7 +14,9 @@
 ### 🧑‍💻 About Me
 
 - 🌱 I’m currently focusing on improving my **frontend development** skills.
+
 - 💬 Ask me about **FrontEnd**
+
 - 📫 How to reach me: **gazmehmohammadmahdi275@gmail.com**
 
 ---
@@ -46,17 +49,11 @@
 
 ---
 
+
 ### 📫 Contact Me
 
 <p align="left">
-  📧 Email: gazmehmohammadmahdi275@gmail.com  
+  📧 Email: gazmehmohammadmahdi275@gmail.com
+  <br>
   📷 Instagram: mohammad_mahdi_gzm
-</p>
-
----
-
-### 🐍 Snake Contribution Game
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mohammadmahdigazmeh/mohammadmahdigazmeh/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
