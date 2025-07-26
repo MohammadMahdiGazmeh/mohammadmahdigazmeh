@@ -1,4 +1,3 @@
-![Image](https://github.com/user-attachments/assets/ad43d54b-6740-4b84-b2db-2154ce8a12e1)
 <h1 align="center">
   <img src="https://github.com/mohammadmahdigazmeh/mohammadmahdigazmeh/blob/main/name.svg" alt="Hi, I'm MohammadMahdi Gazmeh" />
 </h1>
